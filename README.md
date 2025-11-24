@@ -1,72 +1,99 @@
-# 👋 Hi Folks!
-### **Franjo Josip | Android Developer**
+# 👋 Hi there!
+### I'm **Franjo Josip**, an Android Developer crafting modern mobile experiences 🚀
 
 ---
 
 ## 👋 About Me
-✨ Hello! I’m **Franjo**, a passionate **Android Developer** focused on building modern, scalable, and beautiful mobile apps using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
+✨ I specialize in building modern, scalable, and beautiful Android apps using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
 
-💡 My work spans real-world applications, clean architecture, offline-first apps, secure mobile experiences, and refined UI/UX.
+💡 My focus is on production-ready mobile development, featuring clean architecture, offline-first features, secure flows, and a polished UI/UX.
 
-### ✅ What I bring:
-- 📱 Strong experience in modern Android development (Kotlin, Compose)
-- 🧩 MVVM / MVI / Clean Architecture modular apps
-- 🔐 Biometrics, Jetpack Security, encrypted data & secure flows
-- 🎨 Compose-first UI with animations & Material 3
-- 🏗️ End‑to‑end mobile development (architecture → coding → testing)
-- 🌍 Open to worldwide remote opportunities; onsite or hybrid roles only in Croatia.
-- ⚙️ Passionate about clean code, scalable architecture & great user experience
+### ✅ What I bring
+- 📱 Modern Android development (Kotlin, Jetpack Compose)
+- 🧩 MVVM / MVI / Clean Architecture in modular environments
+- 🔐 Secure mobile flows (Biometrics, Jetpack Security, encrypted storage)
+- 🎨 Compose-first UI with animations, theming & Material 3
+- 🏗️ End-to-end development (architecture → coding → testing)
+- ⚙️ Clean code, scalability, maintainability & strong UX focus
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧘‍♂️ **Zenvio – Wellness, Meditation & AI Assistant**
-Modern Compose wellness app with meditation, chat, sleep tools, journal, achievements & more.  
-**Tech:** MVI · Hilt · Coroutines · Compose · Navigation · Media APIs  
-🔗 https://github.com/franjojosip/Zenvio
+### 🧘‍♂️ **[Zenvio – Wellness, Meditation & AI Assistant](https://github.com/franjojosip/Zenvio)**
+Modern wellness app with meditation sessions, chat, sleep tools, journal, achievements & more.  
+**Tech:** MVI · Hilt · Coroutines · Compose · Navigation · Media APIs
+
+<p align="start">
+  <img src="https://github.com/user-attachments/assets/8dc579f6-a6f4-4081-b37a-3ed190517d39" alt="Zenvio Screenshot" width="350" style="border-radius:15px;">
+</p>
 
 ---
 
-### 🍽️ **FoodLovers – Offline Recipe App**
+### 🛋️ **[Furniture4You – Compose Shopping App](https://github.com/franjojosip/Furniture4You)**
+A full shopping experience with cart, checkout, favorites, filters, and biometric authentication.  
+**Tech:** Compose · Hilt · Security · StateFlow · Material 3
+
+<p align="start">
+  <img src="https://github.com/user-attachments/assets/0bcdb270-771a-4d6a-9142-1355d197f6e7" alt="Furniture4You Screenshot" width="350" style="border-radius:15px;">
+</p>
+
+---
+
+### 🍽️ **[FoodLovers – Offline Recipe App](https://github.com/franjojosip/FoodLovers)**
 Browse, search, save favorites, edit recipes & work offline with Room persistence.  
-**Tech:** MVVM · Koin · Room · Navigation · Firebase  
-🔗 https://github.com/franjojosip/FoodLovers
+**Tech:** MVVM · Koin · Room · Navigation · Firebase
 
----
-
-### 🛋️ **Furniture4You – Compose Shopping App**
-A full e-commerce furniture app with cart, checkout, favorites & biometrics.  
-**Tech:** Compose · Hilt · Security · StateFlow · Material 3  
-🔗 https://github.com/franjojosip/Furniture4You
+<p align="start">
+  <img src="https://github.com/user-attachments/assets/b3d2b40c-9780-42e1-9367-750f4f861596" alt="FoodLovers Screenshot" width="350" style="border-radius:15px;">
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-`Kotlin` · `Jetpack Compose` · `MVVM` · `MVI` · `Clean Architecture` ·  
-`Hilt` · `Koin` · `Room` · `Retrofit` ·  
-`Firebase` · `Crashlytics` · `Analytics` ·  
-`Jetpack Security` · `Biometrics` ·  
-`Coroutines` · `Flow` · `Navigation Compose` ·  
-`Material 3` · `Git` · `GitHub` · `Android Studio`
 
-💡 **Currently learning:** Modularization, advanced Compose animations, Media APIs.
+**Languages & Core**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
+**UI & Design**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_Design_3-757575?logo=materialdesign&logoColor=white)
+
+**Architecture**
+MVVM · MVI · Clean Architecture
+
+**Database/Network**
+Room · Retrofit · Coroutines · Flow
+
+**Firebase**
+Analytics · Crashlytics
+
+**Tools**
+Android Studio · Git · GitHub
+
+---
+
+## 💡 Currently Learning
+
+![Modularization](https://img.shields.io/badge/Modularization-00838F?logo=android&logoColor=white)
+![Compose Animations](https://img.shields.io/badge/Compose_Animations-3949AB?logo=jetpackcompose&logoColor=white)
+![Media APIs](https://img.shields.io/badge/Media_APIs-6A1B9A?logo=android&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franjojosip&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franjojosip&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=franjojosip&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franjojosip&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franjojosip&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franjojosip&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌍 Open to New Opportunities
-I'm actively **open to work** and always excited about:
-- Android Development roles  
-- Mobile engineering challenges  
-- Open-source collaboration  
-- Speaking, mentoring, and tech content  
+## 🌍 Open to Opportunities
+I'm currently working full-time, but available for **remote Android contract projects and short-term collaborations**.
 
 📩 **Email:** franjojosip.jukic2@gmail.com  
 🐙 **GitHub:** https://github.com/franjojosip  
