@@ -1,5 +1,5 @@
 # 👋 Hi there!
-### I'm **Franjo Josip**, an Android Developer crafting modern mobile experiences 🚀
+### I'm **Franjo Josip**, a Mobile Engineer crafting modern mobile experiences 🚀
 
 ---
 
